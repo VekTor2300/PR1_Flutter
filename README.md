@@ -10,9 +10,9 @@
 
 #### Создание 1-ого окна (Meditate)
 
-<img src="Miditate.png" alt="demo1"/>
+<img src="Meditate.png" alt="demo1"/>
 
-<img src="MiditateSee.png" alt="demo2"/>
+<img src="MeditateSee.png" alt="demo2"/>
 
 #### Создание 2-ого окна (iPhone 13 mini)
 
