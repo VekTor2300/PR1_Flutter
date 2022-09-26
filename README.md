@@ -4,15 +4,17 @@
 #### Цель работы: сделать 3 макета оценка - 5, 2 макета оценка - 4, 1 макет оценка - 3.
 #### Ход работы:
 
+#### Код для отображения окон
+
 <img src="Main.png" alt="demo"/>
 
-#### Первое окно
+#### Создание 1-ого окна (Meditate)
 
 <img src="Miditate.png" alt="demo1"/>
 
 <img src="MiditateSee.png" alt="demo2"/>
 
-#### Второе окно
+#### Создание 2-ого окна (iPhone 13 mini)
 
 <img src="iPhone13mini.png" alt="demo3"/>
 
