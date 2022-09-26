@@ -18,6 +18,6 @@
 
 <img src="iPhone13mini.png" alt="demo3"/>
 
-<img src="iPhone13miniSee.png" alt="demo4"/>\
+<img src="iPhone13miniSee.png" alt="demo4"/>
 
 #### Вывод: в данной практической работе были разработаны 3 окна по примеру из макета
